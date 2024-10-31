@@ -1,5 +1,5 @@
-<h1>
-  <img src="https://avatars.githubusercontent.com/u/170440293?s=200&v=4" alt="GoetheMC Logo" style="float: left; margin-right: 15px; width: auto; height: auto;">
+<h1 style="font-size: 36px;">
+  <img src="https://avatars.githubusercontent.com/u/170440293?s=200&v=4" alt="GoetheMC Logo" style="height: 36px; vertical-align: middle; margin-right: 15px;">
   Welcome to GoetheMC
 </h1>
 
